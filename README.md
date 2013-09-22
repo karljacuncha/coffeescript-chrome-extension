@@ -1,0 +1,2 @@
+coffeescript-chrome-extension
+=============================
