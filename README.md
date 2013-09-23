@@ -9,4 +9,6 @@ Code is all in literate coffee script, so all the information you need should
 be in there, all very straight forward and clear with any silliness whatsoever,
 I can certainly assure you of that
 
+Maybe start [here](coffee/main.coffee.md)
+
 https://chrome.google.com/webstore/detail/dbjikbcblnkekheiemjbbamghdbklaen/
