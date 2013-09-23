@@ -3,7 +3,7 @@ sorry ted, i was going a bit mad there - but deadly, i don't need to pretend
 I'm a 19th century novelist for this bit since it's outside the scope of main
 code.
 
-this bit here is just the Cake file/build script for the project.
+this bit here is just the Cakefile/build script for the project.
 kinda based on Stephen Ball's coffee-taster:
 https://github.com/sdball/coffee-taster
 ...but without any of that Ruby stuff.
