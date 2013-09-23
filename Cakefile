@@ -1,6 +1,6 @@
 ###
 sorry ted, i was going a bit mad there - but deadly, i don't need to pretend
-like a 19th century novelist for this bit since it's outside the scope of main
+I'm a 19th century novelist for this bit since it's outside the scope of main
 code.
 
 this bit here is just the Cake file/build script for the project.
@@ -9,7 +9,7 @@ https://github.com/sdball/coffee-taster
 ...but without any of that Ruby stuff.
 And actually, at this stage kinda is completely re-written for what I wanted 
 to do with it, but yeah - Stephen's code is a good place to start if you're 
-new to this (and probably a little more saneand readable than mine).
+new to this (and probably a little more sane and readable than mine).
 
 For this you just need node, coffee-script (and stylus for the css. If you 
 like LESS/SASS/Anything elSSs then it should be easy enough to swap out the 
