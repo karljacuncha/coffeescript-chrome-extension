@@ -44,7 +44,7 @@ LIBS_DIR = "external/"
 
 ###
 These next 3 are just file system helper functions.
-Calling exec on the actually shell comand would be easier, but less portable, 
+Calling exec on the actual shell command would be easier but less portable, 
 so trying to keep these in pure coffee/node.
 ###
 copyFileSync = (fname, path) ->
